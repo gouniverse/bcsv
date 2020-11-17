@@ -17,7 +17,7 @@ import "github.com/gouniverse/bcsv"
 
 rows := [][]string{}
 
-rows = append(rows, []string{"city", "county"})
+rows = append(rows, []string{"city", "country"})
 rows = append(rows, []string{"Sofia", "BG"})
 rows = append(rows, []string{"London", "UK"})
 
