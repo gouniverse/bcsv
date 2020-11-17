@@ -33,7 +33,7 @@ import "github.com/gouniverse/bcsv"
 
 type Address struct {
 	City    string `bcsv:"city"`
-	Country string `bcsv:country"`
+	Country string `bcsv:"country"`
 }
 
 addressRows := []Address{
