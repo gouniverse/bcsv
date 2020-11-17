@@ -1,6 +1,6 @@
 # BCSV
 
-Marsgaller / Unmarshaller for the BCSV format
+Marshaller / Unmarshaller for the BCSV format
 
 ## Installation
 
