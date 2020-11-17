@@ -21,7 +21,7 @@ rows = append(rows, []string{"city", "county"})
 rows = append(rows, []string{"Sofia", "BG"})
 rows = append(rows, []string{"London", "UK"})
 
-bcsvString2, _ := bcsv.MarshalToString(rows)
+bcsvString, _ := bcsv.MarshalToString(rows)
 
 ```
 
